@@ -1,9 +1,10 @@
-# Torre.co Technical Assessment
+#FRONTEND PART FOR TORRE.CO TECHNICAL ASSESSMENT.
 
-By->Priyansh Agrawal
-
-Its a frontend repository as a assessment
-
-Languages used->
-
+Languages used-></br>
 HTML,CSS,JAVASCRIPT,REACT JS.
+
+Please dont copyright the code!!..</br>
+it is related directly to the backend.</br>
+https://github.com/priyanshagrawal29/signin
+
+
